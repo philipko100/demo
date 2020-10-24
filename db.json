@@ -1,4 +1,14 @@
-[
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": [
   {
     "user": "1,Philip Ko,Toronto,Ontario,Flu,HPV"
   },
@@ -9,3 +19,4 @@
     "user": "3,Nathan Dyk,Calgary,Alberta,HPV,SARS"
   }
 ]
+}
