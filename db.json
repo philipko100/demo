@@ -4,7 +4,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "1": { "users": "1,Philip Ko,Toronto,Ontario,Flu,HPV,2,Eric Kim,Vancouver,British Columbia,Sars,Flu,Covid,3,Nathan Dyk,Calgary,Alberta,HPV,SARS" },
+  "1": [{ "users": "1,Philip Ko,Toronto,Ontario,Flu,HPV,2,Eric Kim,Vancouver,British Columbia,Sars,Flu,Covid,3,Nathan Dyk,Calgary,Alberta,HPV,SARS" }],
   "2": [
   {
     "user": "1,Philip Ko,Toronto,Ontario,Flu,HPV"
