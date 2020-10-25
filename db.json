@@ -1,9 +1,46 @@
 {
   "0": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  {
+    id: '1',
+    name: 'Philip Ko',
+    city: 'Toronto',
+    province: 'Ontario',
+    shots: [ 'Hepaitis A', 'Measles' ]
+  },
+  {
+    id: '2',
+    name: 'Eric Kim',
+    city: 'Vancouver',
+    province: 'British Columbia',
+    shots: [ "Chickenpox (Varicella)",
+                "Hepatitis A",
+                "Hepatitis B",
+                "Human Papillomavirus (HPV)",
+                "Inactivated Influenza (Flu)",
+                "Measles, Mumps, Rubella (MMR)",
+                "Meningococcal C Conjugate (Men-C)",
+                "Meningococcal Quadrivalent",
+                "Pneumococcal Conjugate (PCV 13)",
+                "Pneumococcal Polysaccharide"]
+  },
+  {
+    id: '3',
+    name: 'Nathan Dyk',
+    city: 'Calgary',
+    province: 'Alberta',
+    shots: ["Diphtheria, tetanus, acellular pertussis, polio, haemophilus influenzae type b, hepatitis b",
+                "Pneumococcal conjugate (Pneu-C13)",
+                "Rotavirus",
+                "Meningococcal conjugate (MenconC)",
+                "Measles, mumps, rubella, and varicella",
+                "Diphtheria, tetanus, acellular pertussis, polio",
+            "Hepatitis B (2 doses)",
+                "Human papillomavirus",
+                "Diphtheria, tetanus, acellular pertussis",
+                "Meningococcal Conjugate Vaccine (Groups A, C, W-135 and Y)"]
+  }
+]
+,
   "1": [{ "users": "1,Philip Ko,Toronto,Ontario,Flu,HPV,2,Eric Kim,Vancouver,British Columbia,Sars,Flu,Covid,3,Nathan Dyk,Calgary,Alberta,HPV,SARS" }],
   "2": [
   {
