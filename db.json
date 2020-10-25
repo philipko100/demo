@@ -7,10 +7,10 @@
   "1": [{ "users": "1,Philip Ko,Toronto,Ontario,Flu,HPV,2,Eric Kim,Vancouver,British Columbia,Sars,Flu,Covid,3,Nathan Dyk,Calgary,Alberta,HPV,SARS" }],
   "2": [
   {
-    "user": "1,Philip Ko,Toronto,Ontario,Flu,HPV"
+    "user": "1,Philip Ko,Toronto,Ontario,Hepaitis A,Measles"
   },
   {
-    "user": "2,Eric Kim,Vancouver,British Columbia,SARS,Flu,Covid"
+    "user": "2,Eric Kim,Vancouver,British Columbia,Hepatitis B,Yellow Fever,Measles"
   },
   {
     "user": "3,Nathan Dyk,Calgary,Alberta,HPV,SARS"
