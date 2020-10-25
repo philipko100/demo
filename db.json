@@ -1,18 +1,18 @@
 {
   "0": [
   {
-    id: "1",
-    name: 'Philip Ko',
-    city: 'Toronto',
-    province: 'Ontario',
-    shots: [ 'Hepaitis A', 'Measles' ]
+    "id": "1",
+    "name": "Philip Ko",
+    "city": "Toronto",
+    "province": "Ontario",
+    "shots": [ "Hepaitis A", 'Measles' ]
   },
   {
-    id: '2',
-    name: 'Eric Kim',
-    city: 'Vancouver',
-    province: 'British Columbia',
-    shots: [ "Chickenpox (Varicella)",
+    "id": "2",
+    "name": "Eric Kim",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    'shots": [ "Chickenpox (Varicella)",
                 "Hepatitis A",
                 "Hepatitis B",
                 "Human Papillomavirus (HPV)",
@@ -24,11 +24,11 @@
                 "Pneumococcal Polysaccharide"]
   },
   {
-    id: '3',
-    name: 'Nathan Dyk',
-    city: 'Calgary',
-    province: 'Alberta',
-    shots: ["Diphtheria, tetanus, acellular pertussis, polio, haemophilus influenzae type b, hepatitis b",
+    "id": "3",
+    "name": "Nathan Dyk",
+    "city": "Calgary",
+    "province": "Alberta",
+    "shots": ["Diphtheria, tetanus, acellular pertussis, polio, haemophilus influenzae type b, hepatitis b",
                 "Pneumococcal conjugate (Pneu-C13)",
                 "Rotavirus",
                 "Meningococcal conjugate (MenconC)",
