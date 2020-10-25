@@ -5,14 +5,14 @@
     "name": "Philip Ko",
     "city": "Toronto",
     "province": "Ontario",
-    "shots": [ "Hepaitis A", 'Measles' ]
+    "shots": [ "Hepaitis A", "Measles" ]
   },
   {
     "id": "2",
     "name": "Eric Kim",
     "city": "Vancouver",
     "province": "British Columbia",
-    'shots": [ "Chickenpox (Varicella)",
+    "shots": [ "Chickenpox (Varicella)",
                 "Hepatitis A",
                 "Hepatitis B",
                 "Human Papillomavirus (HPV)",
